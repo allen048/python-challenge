@@ -35,6 +35,6 @@ The winner of the election based on popular vote
 Website Citation:
 Arizona State University (2023-2024). Module 3 Challenge. bootcampspot. https://bootcampspot.instructure.com/courses/4938/assignments/61927?module_item_id=1076776
 
-Code Citation:
+Code & Comments Citation:
 OpenAI. (2023-2024). ChatGPT (Dec 2023/Jan 2024 versions) [Large language model]. https://chat.openai.com/chat
 
